@@ -3,3 +3,11 @@ __pycache__
 *.pyc
 log.txt
 graficos/
+.DS_Store
+.vscode/
+.idea/
+*.env.local
+*.log
+.env.development
+.env.production
+.env.example
